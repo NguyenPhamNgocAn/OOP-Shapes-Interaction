@@ -1,0 +1,1 @@
+# Given two arbitrary shapes, such as rectangular, square, triangle, polygon, and circle, each shape has a color. We use OOP to interact with the shapes. This can be: move the shapes, change the shapes, merge two shapes to see their intersection. Two shapes displayed on the screen must have different colors, when they are collided, the color within the intersection changes.
