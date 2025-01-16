@@ -1,0 +1,18 @@
+﻿  Polygon.cpp
+c:\users\hv\downloads\documents\visual studio 2015\projects\win32project5\win32project5\point.h(10): error C2061: syntax error: identifier 'HDC'
+c:\users\hv\downloads\documents\visual studio 2015\projects\win32project5\win32project5\polygon.h(5): error C2504: 'CShape': base class undefined
+c:\users\hv\downloads\documents\visual studio 2015\projects\win32project5\win32project5\polygon.h(21): error C2061: syntax error: identifier 'HDC'
+c:\users\hv\downloads\documents\visual studio 2015\projects\win32project5\win32project5\polygon.h(23): error C2065: 'POINT': undeclared identifier
+c:\users\hv\downloads\documents\visual studio 2015\projects\win32project5\win32project5\polygon.h(23): error C2146: syntax error: missing ';' before identifier 'vertices'
+c:\users\hv\downloads\documents\visual studio 2015\projects\win32project5\win32project5\polygon.h(23): error C2065: 'vertices': undeclared identifier
+c:\users\hv\downloads\documents\visual studio 2015\projects\win32project5\win32project5\polygon.h(25): error C2065: 'hdc': undeclared identifier
+c:\users\hv\downloads\documents\visual studio 2015\projects\win32project5\win32project5\polygon.h(25): error C2065: 'vertices': undeclared identifier
+c:\users\hv\downloads\documents\visual studio 2015\projects\win32project5\win32project5\polygon.h(25): error C3861: 'Polygon': identifier not found
+c:\users\hv\downloads\documents\visual studio 2015\projects\win32project5\win32project5\point.h(2): error C2011: 'Point': 'class' type redefinition
+  c:\users\hv\downloads\documents\visual studio 2015\projects\win32project5\win32project5\point.h(2): note: see declaration of 'Point'
+  ShapeApp.cpp
+c:\users\hv\desktop\lthdt-pj\shapeapp3\shapeapp\ellipse.h(17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hv\desktop\lthdt-pj\shapeapp3\shapeapp\rect.h(7): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hv\desktop\lthdt-pj\shapeapp3\shapeapp\polygon.h(22): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+c:\users\hv\desktop\lthdt-pj\shapeapp3\shapeapp\polygon.h(22): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+  Generating Code...
